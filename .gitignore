@@ -8,3 +8,5 @@ arrays/target
 arrays/Cargo.lock
 functions/target
 functions/Cargo.lock
+control-flow/target
+control-flow/Cargo.lock
