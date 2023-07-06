@@ -10,3 +10,9 @@ functions/target
 functions/Cargo.lock
 control-flow/target
 control-flow/Cargo.lock
+ownership/target
+ownership/Cargo.lock
+structures/target
+structures/Cargo.lock
+struct-example/target
+struct-example/Cargo.lock
